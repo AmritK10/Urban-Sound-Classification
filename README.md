@@ -23,11 +23,13 @@ Constant-Q chromagram.<br/>
 #### Chroma_cens<br/>
 The chroma variant “Chroma Energy Normalized” (CENS).<br/>
 ## Neural Network Implementation 
+A simple Neural Network with dropouts was used.<br/>
 The following results are obtained by training on folders 1-9 and testing on folder 10. <br />
 Train accuracy: 93.14% <br />
 Test accuracy: 66.06%<br />
 
 ## Convolutional Neural Network Implementation 
+A convolutional Neural Network with dropouts was used.<br/>
 The following results are obtained by training on folders 1-9 and testing on folder 10. <br />
 Train accuracy: 95.90% <br />
 Test accuracy: 73.11%<br />
