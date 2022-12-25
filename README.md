@@ -22,9 +22,9 @@ The UrbanSound8k dataset used for model training, can be downloaded from the fol
 
 <i>Data_Generator_UrbanSound.ipynb</i>: Contains code for a data-generator that can be used for training with augmented data using CNN
 
-## Future Steps
+## Future Work
 
-Extend data more by using different parameters for augmentation
+Extend data more by using different parameters for augmentation <br/>
 Apply Hyperparameter optimization and test different architectures
 
 ## Features Extracted
