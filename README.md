@@ -16,11 +16,11 @@ The UrbanSound8k dataset used for model training, can be downloaded from the fol
 
 <i>Urban_data_preprocess.ipynb</i>: Pre-processing data and also augmenting data
 
-<i>Urban_model.ipynb</i>: Running 10 fold cross val on original data using simple NN
+<i>Urban_nn_model.ipynb</i>: Running 10 fold cross val on original data using simple NN
 
 <i>Urban_cnn_model.ipynb</i>: Running 10 fold cross val on original and augmented data using CNN
 
-<i>Data_Generator_UrbanSound.ipynb</i>: Contains code for a data-generator that can be used for training with augmented data using CNN
+<i>Urban_data_generator.ipynb</i>: Contains code for a data-generator that can be used for training with augmented data using CNN
 
 ## Results
 
