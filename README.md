@@ -24,9 +24,9 @@ The UrbanSound8k dataset used for model training, can be downloaded from the fol
 
 ## Results
 
-10 Fold Cross Val Accuracy for NN on original data: 57.43% <br/>
-10 Fold Cross Val Accuracy for CNN on original data: 62.61% <br/>
-10 Fold Cross Val Accuracy for CNN on augmented data: 62.21% <br/>
+10 Fold Cross Val Accuracy for NN using original data: 57.43% <br/>
+10 Fold Cross Val Accuracy for CNN using original data: 62.61% <br/>
+10 Fold Cross Val Accuracy for CNN using augmented data: 63.90% <br/>
 
 ## Future Work
 
