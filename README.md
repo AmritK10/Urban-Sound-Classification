@@ -4,7 +4,7 @@
 
 ## References
 
-Salamon, J., & Bello, J. P. (2017). Deep convolutional neural networks and data augmentation for environmental sound classification. IEEE Signal processing letters, 24(3), 279-283.
+Salamon, J., & Bello, J. P. (2017). Deep convolutional neural networks and data augmentation for environmental sound classification. IEEE Signal processing letters, 24(3), 279-283. https://doi.org/10.1109/LSP.2017.2657381
 
 ## Dataset
 
