@@ -22,10 +22,16 @@ The UrbanSound8k dataset used for model training, can be downloaded from the fol
 
 <i>Data_Generator_UrbanSound.ipynb</i>: Contains code for a data-generator that can be used for training with augmented data using CNN
 
+## Results
+
+10 Fold Cross Val Accuracy for NN on original data: 57.43% <br/>
+10 Fold Cross Val Accuracy for CNN on original data: 62.61% <br/>
+10 Fold Cross Val Accuracy for CNN on augmented data: 62.21% <br/>
+
 ## Future Work
 
 Extend data more by using different parameters for augmentation <br/>
-Apply Hyperparameter optimization and test different architectures
+Apply Hyperparameter optimization and test different architectures <br/>
 
 ## Features Extracted
 
